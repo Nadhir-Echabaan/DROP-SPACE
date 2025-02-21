@@ -1,0 +1,14 @@
+.logo_image { 
+  color: rgb(105, 28, 199); 
+  height:8.6rem;
+  width: auto;
+}
+.logo { 
+  display: flex;
+  flex-direction: column;
+  align-items:center; 
+  gap:0.5rem;
+}
+.logo_name {
+  font-size:2.8rem;
+}

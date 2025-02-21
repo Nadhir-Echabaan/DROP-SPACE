@@ -1,0 +1,14 @@
+.table-header {
+  display: grid;
+  grid-template-columns: 2fr 1fr 1fr 1fr;
+  column-gap: 2.4rem;
+  padding:1rem 1rem; 
+  border-bottom: 1px solid #eef2ff;
+}
+.actions{
+  justify-self: end;
+}
+
+.col-title { 
+  font-size: 1.4rem;
+} 

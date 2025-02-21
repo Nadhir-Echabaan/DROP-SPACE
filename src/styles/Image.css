@@ -1,0 +1,11 @@
+.image-icon {
+  height: 2.7rem;
+  width:2.7rem;
+  color:#863FDD;
+  stroke-width: 1;
+}
+.image-container { 
+  display: flex;
+  align-items: center;
+  gap:1rem;
+}

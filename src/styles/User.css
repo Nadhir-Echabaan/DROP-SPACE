@@ -1,0 +1,13 @@
+.user-icon {
+  height:3.4rem;
+  width:3.4rem;
+  color: #6b7280; 
+}
+.user {
+  padding: 0.8rem 1rem;
+  border-radius: 50%;
+  background-color: #f9fafb;
+}
+.user:hover { 
+  cursor:pointer; 
+}

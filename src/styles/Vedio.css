@@ -1,0 +1,11 @@
+.vedio-icon {
+  height: 2.7rem;
+  width:2.7rem;
+  color: #15803d; 
+  stroke-width: 1.5;
+}
+.vedio-container { 
+  display: flex;
+  align-items: center;
+  gap:1rem;
+}

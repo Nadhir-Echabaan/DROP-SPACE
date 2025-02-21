@@ -1,0 +1,19 @@
+.section {
+  display: flex;
+  align-items: center;
+  gap: 3rem;
+} 
+.icon-container {
+  padding: 1.3rem 1.3rem;
+  background-color:#4f46e5;
+  border-radius: 20px; 
+}
+.section-icon {
+  height:4rem;
+  width:4rem;
+  color: #fff;
+  stroke-width: 1.4;
+}
+.section-title {
+  font-size: 3.8rem;
+}

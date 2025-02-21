@@ -1,0 +1,11 @@
+.file-icon {
+  height: 2.7rem;
+  width:2.7rem;
+  color: rgb(105, 28, 199);
+  stroke-width: 1;
+}
+.file-container { 
+  display: flex;
+  align-items: center;
+  gap:1rem;
+}

@@ -1,0 +1,14 @@
+.bin-action {
+  height: 2.7rem;
+  width: 2.7rem;
+  padding: 0.7rem;
+  background-color: #b91c1c;
+  border-radius: 50%;
+  color: #fff;
+  cursor: pointer;
+}
+.bin-icon {
+  background-color: #fff;
+  border: none;
+  justify-self: end;
+}
